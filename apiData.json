@@ -1,0 +1,38 @@
+[
+    {
+        "Name":"Sabit khan",
+        "RollNo":1,
+        "Student":"Computer Science",
+        "Village":"Rustam"
+    },
+    {
+        "Name":"Ishaq khan",
+        "RollNo":2,
+        "Student":"Computer Science",
+        "Village":"Rustam"
+    },
+    {
+        "Name":"Ziyad khan",
+        "RollNo":3,
+        "Student":"Computer Science",
+        "Village":"Rustam"
+    },
+    {
+        "Name":"Amir khan",
+        "RollNo":4,
+        "Student":"Computer Science",
+        "Village":"Rustam"
+    },
+    {
+        "Name":"Zarak khan",
+        "RollNo":5,
+        "Student":"Computer Science",
+        "Village":"Rustam"
+    },
+    {
+        "Name":"Zain khan",
+        "RollNo":6,
+        "Student":"Computer Science",
+        "Village":"Rustam"
+    }
+]
